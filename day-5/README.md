@@ -1,12 +1,25 @@
-# Day 5: Docker Introduction & Containerization
+# Day 5: Docker Introduction & Containerization 🐳
 
-Today, I officially stepped into the world of containers! The goal was to deploy a live web server using Docker.
+Welcome to Day 5 of the **20 Days of Containers & Kubernetes Challenge**!
 
-## Key Learnings & Commands:
-* **Running a Container:** Deployed an Nginx web server in detached mode using `sudo docker run -d -p 8081:80 --name my-web nginx`.
-* **Troubleshooting Port Conflicts:** Encountered an `address already in use` error on port 8080. Learned how Docker maps Host ports to Container ports (`HostPort:ContainerPort`) and resolved the issue by binding to an available port (8081).
-* **Container Management:** Used `docker ps` to verify running instances and `docker rm` to clean up failed containers.
+Today's session focused on the core fundamentals of Docker. 
 
-### My First Running Container:
-![Docker Nginx Output](day-5.png)
+## 📋 Workflow & Objectives
+
+### 1. Docker Setup & Basics
+* Checked Docker version: `docker --version`
+* Verified Docker service status: `sudo systemctl status docker`
+
+### 2. Image Pull & Container Run
+* Pulled the official Nginx image and ran it in detached mode.
+* `sudo docker run -d -p 8081:80 --name my-web nginx`
+
+### 3. Container Management
+* Listed running containers to verify status and port bindings.
+* `sudo docker ps`
+
+## 📸 Practical Output
+Below is the terminal output showing the Nginx container running successfully on port 8081:
+
+![Docker ps Output](day-5.png)
 
