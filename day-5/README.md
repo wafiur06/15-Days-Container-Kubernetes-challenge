@@ -8,5 +8,5 @@ Today, I officially stepped into the world of containers! The goal was to deploy
 * **Container Management:** Used `docker ps` to verify running instances and `docker rm` to clean up failed containers.
 
 ### My First Running Container:
-![Docker Nginx Output](day-5.jpeg)
+![Docker Nginx Output](day-5.png)
 
