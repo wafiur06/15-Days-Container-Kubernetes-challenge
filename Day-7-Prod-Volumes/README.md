@@ -34,6 +34,7 @@ Simulated a server migration/recovery by creating a new volume (`restored-web-da
 * **Verification:** `sudo docker run --rm --mount type=volume,source=restored-web-data,target=/app alpine ls -l /app` confirmed the successful restoration of `index.html`.
 
 ## 📸 Practical Output
-Below is the evidence of the successful secure deployment and the blocked unauthorized write attempt:
+Below are the captured outputs demonstrating the successful volume deployment, blocked security breach, and successful data restoration:
 
-![Production Volumes & Security Validation](day-7.png)
+![Terminal/Browser Output 1](day-7.png)
+![Terminal/Browser Output 2](day--7.png)
