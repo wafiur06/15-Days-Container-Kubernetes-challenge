@@ -1,10 +1,6 @@
-Tomar `README.md` file-ti ekdom clean, structured ebong markdown format e niche diye dilam. Tumi sora-sori ei code-ti copy kore tomar project er `README.md` file e paste kore dite paro:
-
-```markdown
 # 🏥 BD Smart Hospital - Enterprise SaaS Dashboard
 
 An enterprise-grade, high-performance Smart Hospital Management SaaS application built with a modern 3D Soft-UI (Neumorphism & Glassmorphism) aesthetic, robust FastAPI backend, and scalable PostgreSQL database.
-
 ---
 
 ## 🚀 Tech Stack
@@ -41,9 +37,7 @@ An enterprise-grade, high-performance Smart Hospital Management SaaS application
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/your-username/bd-smart-hospital.git](https://github.com/your-username/bd-smart-hospital.git)
-   cd bd-smart-hospital
-
-```
+   cd bd-smart-hospital 
 
 2. **Run the application using Docker Compose:**
 ```bash
