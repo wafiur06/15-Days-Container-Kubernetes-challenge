@@ -1,6 +1,6 @@
-# 20 Days of DevOps Challenge 🚀
+# 20 Days of Containers & Kubernetes Challenge 🚀
 
-Welcome to my 20-day journey into DevOps, Containers, and Kubernetes! I am learning in public and tracking my daily progress here.
+Welcome to my 20-day journey into Containers, and Kubernetes! I am learning in public and tracking my daily progress here.
 
 ## Challenge Outline:
 * [x] **Day 1:** Linux Basics & Navigation (Added soon)
