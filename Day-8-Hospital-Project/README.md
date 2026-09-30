@@ -30,6 +30,9 @@ An enterprise-grade, high-performance Smart Hospital Management SaaS application
 ### 2. Load Testing Results (Locust)
 ![Locust Load Test Performance](load%20balance.png)
 
+### 3. Backend (PostgrSql)
+![FastAPI](load%20backend.png)
+
 ---
 
 ## ⚙️ Getting Started (Docker Compose)
