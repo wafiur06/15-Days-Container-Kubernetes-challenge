@@ -36,8 +36,8 @@ An enterprise-grade, high-performance Smart Hospital Management SaaS application
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/bd-smart-hospital.git](https://github.com/your-username/bd-smart-hospital.git)
-   cd bd-smart-hospital 
+   git clone https://github.com/wafiur06/15-Days-Container-Kubernetes-challenge.git
+   cd 15-Days-Container-Kubernetes-challenge/Day-8-Hospital-Project
 
 2. **Run the application using Docker Compose:**
 ```bash
