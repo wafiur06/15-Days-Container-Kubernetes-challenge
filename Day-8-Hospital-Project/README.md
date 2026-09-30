@@ -31,7 +31,7 @@ An enterprise-grade, high-performance Smart Hospital Management SaaS application
 ![Locust Load Test Performance](load%20balance.png)
 
 ### 3. Backend (PostgrSql)
-![FastAPI](load%20backend.png)
+![FastAPI](backend.png)
 
 ---
 
