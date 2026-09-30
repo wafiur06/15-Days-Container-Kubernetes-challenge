@@ -47,7 +47,7 @@ sudo docker compose up --build -d
 
 
 3. **Access the services:**
-* **Frontend Dashboard:** `http://localhost:3000`
+* **Frontend Dashboard:** `http://localhost:8085`
 * **Backend API Docs:** `http://localhost:8000/docs`
 
 
